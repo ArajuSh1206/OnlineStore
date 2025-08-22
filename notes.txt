@@ -1,0 +1,11 @@
+** First Steps to initialize the application **
+
+- Go to start.spring.io to initialize the spring boot app
+- Setting used - Maven, Java, SB 3.5.5, packaging Jar, Java 24 (latest atm)
+- Insert spring boot maven dependency from maven central online to pom.xml
+- Routers in Springboot maven is  in main/java/com.file directory
+- Create index file for the application on resources/ static
+- You can run OnlineStore application within main/java/com.file directory for it to run on local host
+
+
+

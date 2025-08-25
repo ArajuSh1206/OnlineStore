@@ -20,8 +20,12 @@
     <div class="logo">OnlineStore</div>
     <div class="nav-items">
         <input type="text" placeholder="Search items...">
-        <button>Login</button>
-        <button>Cart</button>
+        <a href="/login">
+            <button>Logout</button>
+        </a>
+        <a href="/cart">
+            <button>Cart</button>
+        </a>
     </div>
 </div>
 
@@ -31,8 +35,9 @@
     <div th:each="product : ${products}" class="product-card">
         <img th:src="@{${product.image}}" th:alt="${product.name}">
         <h2 th:text="${product.name}">Product Name</h2>
-        <p th:text="${product.price} + ' $'">Price</p>
+        <p th:text=" ' $ ' + ${product.price} ">Price</p>
         <button>View</button>
+        <button>Add to cart</button>
     </div>
 </div>
 </body>

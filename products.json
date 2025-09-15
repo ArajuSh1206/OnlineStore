@@ -1,0 +1,6 @@
+[{"_id":{"$oid":"68c44217ae0ea752d14a8532"},"name":"Nikon Camera","price":499.99,"image":"/images/NikonCamera.jpg"},
+{"_id":{"$oid":"68c44217ae0ea752d14a8533"},"name":"Coke Soda","price":1.99,"image":"/images/CokeSoda.jpg"},
+{"_id":{"$oid":"68c44217ae0ea752d14a8534"},"name":"Coach Perfume","price":79.99,"image":"/images/CoachPerfume.jpg"},
+{"_id":{"$oid":"68c44217ae0ea752d14a8535"},"name":"Sae Brush & Paste","price":15.99,"image":"/images/SaeBrush&Paste.jpg"},
+{"_id":{"$oid":"68c44217ae0ea752d14a8536"},"name":"Sae Face Cream","price":22.99,"image":"/images/SaeFaceCream.jpg"},
+{"_id":{"$oid":"68c44217ae0ea752d14a8537"},"name":"Serum & Mist Kit","price":35.99,"image":"/images/Serum&MistKit.jpg"}]

@@ -6,6 +6,7 @@
 - Routers in Springboot maven is  in main/java/com.file directory
 - Create index file for the application on resources/ static
 - You can run OnlineStore application within main/java/com.file directory for it to run on local host
+- Go to Mongodb atlas dashboard, create a new cluster and replace the mongodb_uri with the given connection string to add products
 
 
 
